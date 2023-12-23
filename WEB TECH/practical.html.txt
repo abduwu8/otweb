@@ -1,6 +1,0 @@
-<html>
-<head>
-<title>Practical</title>
-</head>
-<body>HI OK</body>
-</html>
