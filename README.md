@@ -18,11 +18,10 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am currently a BCA 1st year student.
--  I’m currently learning Web Development.
--  2024 Goals: Contribute to Open Source projects
--  Ask me about anything, I am happy to help :smile:
--  How to reach me: [Let's get in touch!][linkedin]
--  I try to: Go beyond and push the bounds
+-  im currently learning web development.
+-  i desire to learn languages with precision and creativity
+-  You can reach me at: [Let's get in touch!][linkedin]
+-  i try to: Go beyond and push the bounds
 
 <br>
 
@@ -63,9 +62,9 @@
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
-#### Thank You-🙏🏼
+#### Thank You
 
-⭐️ From [Abdullah Khan](https://github.com/abduwu8)
+ From [Abdullah Khan](https://github.com/abduwu8)
 
 <!--[website]: -->
 [instagram]: https://instagram.com/abdullahhkkhann
